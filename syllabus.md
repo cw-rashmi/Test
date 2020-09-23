@@ -1,5 +1,5 @@
 1. Introduction to Complexity Measures Comparing Algorithms
-~~- Example 1: Measuring Time Complexity~~
+-~~ Example 1: Measuring Time Complexity~~
 - Example 2: Measuring Time Complexity
 - Introduction to Asymptotic Analysis and Big O
 - Other Common Asymptotic Notations and Why Big O Trumps Them
