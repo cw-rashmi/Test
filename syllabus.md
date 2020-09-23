@@ -1,0 +1,240 @@
+1. Introduction to Complexity Measures
+_- Comparing Algorithms_
+- Example 1: Measuring Time Complexity
+- Example 2: Measuring Time Complexity
+- Introduction to Asymptotic Analysis and Big O
+- Other Common Asymptotic Notations and Why Big O Trumps Them
+- Useful Formulas
+- Common Complexity Scenarios
+- Challenge 1: Big O of Nested Loop with Addition
+- Solution Review: Big O of Nested Loop with Addition
+- Challenge 2: Big O of Nested Loop with Subtraction
+- Solution Review: Big O of Nested Loop with Subtraction
+- Challenge 3: Big O of Nested Loop with Multiplication
+- Solution Review: Big O of Nested Loop with Multiplication
+- Challenge 4: Nested Loop with Multiplication (Basic)
+- Solution Review: Nested Loop with Multiplication (Basic)
+- Challenge 5: Nested Loop with Multiplication (Intermediate)
+- Solution Review: Nested Loop with Multiplication (Intermediate)
+- Challenge 6: Nested Loop with Multiplication (Advanced)
+- Solution Review: Nested Loop with Multiplication (Advanced)
+- Challenge 7: Nested Loop with Multiplication (Pro)
+- Solution Review: Nested Loop with Multiplication (Pro)
+- Complexity Quiz: Test your understanding of complexity
+
+2. Introduction to Lists
+- Lists
+- Arrays
+- Lists vs Arrays in Python
+- Challenge 1: Remove Even Integers from List
+- Solution Review: Remove Even Integers from a List
+- Challenge 2: Merge Two Sorted Lists
+- Solution Review: Merge Two Sorted Lists
+- Challenge 3: Find Two Numbers that Add up to "k"
+- Solution Review: Find Two Numbers that Add up to "k"
+- Challenge 4: List of Products of all Elements
+- Solution Review: List of Products of All Elements
+- Challenge 5: Find Minimum Value in List
+- Solution Review: Find Minimum Value in List
+- Challenge 6: First Non-Repeating Integer in a list
+- Solution Review: First Non-Repeating Integer in a list
+- Challenge 7: Find Second Maximum Value in a List
+- Solution Review: Find Second Maximum Value in a List
+- Challenge 8: Right Rotate List
+- Solution Review: Right Rotate List
+- Challenge 9: Rearrange Positive & Negative Values
+- Solution Review: Rearrange Positive & Negative Values
+- Challenge 10: Rearrange Sorted List in Max/Min Form
+- Solution Review: Rearrange Sorted List in Max/Min Form
+- Lists Quiz: Test your understanding of Lists
+
+3. Introduction to Linked Lists
+- Singly Linked Lists (SLL)
+- Linked Lists vs. Lists
+- Basic Linked List Operations
+- Singly Linked List Insertion
+- Challenge 1: Insertion at Tail
+- Solution Review: Insertion at Tail
+- Challenge 2: Search in a Singly Linked List
+- Solution Review: Search in a Singly Linked List
+- Singly Linked List Deletion
+- Challenge 3: Deletion by Value
+- Solution Review: Deletion by Value
+- Doubly Linked Lists (DLL)
+- Singly Linked Lists vs. Doubly Linked Lists
+- Challenge 4: Find the Length of a Linked List
+- Solution Review: Find the Length of a Linked List
+- Challenge 5: Reverse a Linked List
+- Solution Review: Reverse a Linked List
+- Challenge 6: Detect Loop in a Linked List
+- Solution Review: Detect Loop in a Linked List
+- Challenge 7: Find Middle Node of Linked List
+- Solution Review: Find Middle Node of a Linked List
+- Challenge 8: Remove Duplicates from Linked List
+- Solution Review: Remove Duplicates from a Linked List
+- Challenge 9: Union & Intersection of Linked Lists
+- Solution Review: Union & Intersection of Linked Lists
+- Challenge 10: Return the Nth node from End
+- Solution Review: Return the Nth Node from End
+- Linked Lists Quiz: Test your understanding of Linked Lists
+
+4. Introduction to Stack/Queues
+- What is a Stack?
+- Stack (Implementation)
+- What is a Queue?
+- Queue (Implementation)
+- Challenge 1: Generate Binary Numbers from 1 to n using a Queue
+- Solution Review: Generate Binary Numbers from 1 to n using Queue
+- Challenge 2: Implement Two Stacks Using One List
+- Solution Review: Implementing Two Stacks Using One List
+- Challenge 3: Reversing First k Elements of Queue
+- Solution Review: Reversing First k Elements of Queue
+- Challenge 4: Implement a Queue Using Stacks
+- Solution Review: Implement a Queue Using Stacks
+- Challenge 5: Sort Values in a Stack
+- Solution Review: Sort Values in Stack
+- Challenge 6: Evaluate Postfix Expression Using a Stack
+- Solution Review: Evaluate Postfix Expression Using a Stack
+- Challenge 7: Next Greater Element Using a Stack
+- Solution Review: Next Greater Element Using a Stack
+- Challenge 8: Check Balanced Parentheses Using Stack
+- Solution Review: Check Balanced Parentheses using Stack
+- Challenge 9: min() Function Using a Stack
+- Solution Review: min() Function Using a Stack
+- Stack/Queue Quiz: Test your understanding of Stack/Queue
+
+5. Introduction to Graphs
+- What is a Graph?
+- Types of Graphs
+- Representation of Graphs
+- Graph Implementation
+- Complexities of Graph Operations
+- What is a Bipartite Graph?
+- Graph Traversal Algorithms
+- Challenge 1: Implement Breadth First Search
+- Solution Review: Implement Breadth First Search
+- Challenge 2: Implement Depth First Search
+- Solution Review: Implement Depth First Search
+- Challenge 3: Detect Cycle in a Directed Graph
+- Solution Review: Detect Cycle in a Directed Graph
+- Challenge 4: Find a "Mother Vertex" in a Directed Graph
+- Solution Review: Find a "Mother Vertex" in a Directed Graph
+- Challenge 5: Count Number of Edges in an Undirected Graph
+- Solution Review: Count the Number of Edges in an Undirected Graph
+- Challenge 6: Check if a Path Exists Between Two Vertices
+- Solution Review: Check if a Path Exists Between Two Vertices
+- Challenge 7: Check if a Given Undirected Graph is Tree or not?
+- Solution Review: Check if Given Undirected Graph is a Tree or Not
+- Challenge 8: Find the Shortest Path Between Two Vertices
+- Solution Review: Find the Shortest Path Between Two Vertices
+- Challenge 9: Remove Edge
+- Solution Review: Remove Edge
+- Graph Quiz: Test your understanding of Graphs
+
+6. Introduction to Trees
+- Trees and their Basic Properties!
+- What makes a tree 'balanced'?
+- What is a Binary Tree?
+- More on Complete Binary Trees
+- Skewed Binary Trees
+- What is a Binary Search Tree (BST)?
+- Implementing a Binary Search Tree in Python
+- Binary Search Tree Insertion
+- Binary Search Tree Insertion (Implementation)
+- Searching in a Binary Search Tree (Implementation)
+- Deletion in a Binary Search Tree
+- Deletion in a Binary Search Tree (Implementation)
+- Pre-Order Traversal
+- Post-Order Traversal
+- In-Order Traversal
+- What is an AVL Tree?
+- AVL Insertion
+- AVL Deletion
+- What is a Red-Black Tree?
+- Red-Black Tree Insertion
+- Red-Black Tree Deletion
+- What is a 2-3 Tree?
+- 2-3 Insertion
+- 2-3 Deletion (Case #1)
+- 2-3 Deletion (Case #2)
+- 2-3-4 Trees
+- Overview of Trees
+- Challenge 1: Find minimum value in Binary Search Tree
+- Solution: Find minimum value in Binary Search Tree
+- Challenge 2: Find kth maximum value in Binary Search Tree
+- Solution Review: Find kth maximum value in Binary Search Tree
+- Challenge 3: Find Ancestors of a given node in a BST
+- Solution Review: Find Ancestors of a given node in a BST
+- Challenge 4: Find the Height of a BST
+- Solution Review: Find the Height of a BST
+- Challenge 5: Find Nodes at "k" distance from the Root
+- Solution Review: Find Nodes at "k" distance from the Root
+- Trees Quiz: Test your understanding of Trees
+
+7. Trie
+- What is a Trie?
+- Structure of a Trie
+- Insertion in a Trie
+- Search in a Trie
+- Deletion in Trie
+- Challenge 1: Total Number of Words in a Trie
+- Solution Review: Total Number of Words in a Trie
+- Challenge 2: Find All Words Stored in Trie
+- Solution Review: Find All Words Stored in Trie
+- Challenge 3: List Sort Using Trie
+- Solution Review: List Sort Using Trie
+- Challenge 4: Word Formation From a Dictionary Using Trie
+- Solution Review: Word Formation From a Dictionary Using Trie
+- Trie Quiz: Test Your Understanding of Tries
+
+8. Introduction to Heap
+- What is a Heap?
+- Max Heap: Introduction
+- Max Heap (Implementation)
+- Min Heap: Introduction
+- Min Heap (Implementation)
+- Challenge 1: Convert Max-Heap to Min-Heap
+- Solution Review: Convert Max-Heap to Min-Heap
+- Challenge 2: Find k smallest elements in a List
+- Solution Review: Find k smallest elements in a List
+- Challenge 3: Find k largest elements in the List
+- Solution Review: Find k Largest Elements in the List
+- Heap Quiz: Test your understanding of Heaps
+
+9. Introduction to Hashing
+- What is a Hash Table?
+- The Hash Function
+- Collisions in Hash Tables
+- Building a Hash Table from Scratch
+- Add/Remove & Search in Hash Table (Implementation)
+- A Quick Overview of Hash Tables
+- Trees vs Hash Table
+- Dictionary vs Set
+- Challenge 1: A List as a Subset of Another List
+- Solution Review: A List as a Subset of Another List
+- Challenge 2: Check if Lists are Disjoint
+- Solution Review: Check if Lists are Disjoint
+- Challenge 3: Find Symmetric Pairs in a List
+- Solution Review: Find Symmetric Pairs in a List
+- Challenge 4: Trace the Complete Path of a Journey
+- Solution Review: Trace the Complete Path of a Journey
+- Challenge 5: Find Two Pairs in List such that a+b = c+d
+- Solution Review: Find Two Pairs Such That a+b = c+d
+- Challenge 6: A Sublist with a Sum of 0
+- Solution Review: A Sublist with a Sum of 0
+- Challenge 7: Word Formation Using a Hash Table
+- Solution Review: Word Formation Using a Hash Table
+- Challenge 8: Find Two Numbers that Add up to "k"
+- Solution Review: Find Two Numbers that Add up to "k"
+- Challenge 9: First Non-Repeating Integer in a List
+- Solution Review: First Non-Repeating Integer in a list
+- Challenge 10: Detect Loop in a Linked List
+- Solution Review: Detect Loop in a Linked List
+- Challenge 11: Remove Duplicates from Linked List
+- Solution Review: Remove Duplicates from Linked List
+- Challenge 12: Union & Intersection of Linked Lists
+- Solution Review: Union & Intersection of Linked Lists
+- Hashing Quiz: Test your understanding of Hashing
+- 10. Summary of Data Structures
+- Overview of Linear & Non-Linear Data Structures
+- Conclusion
